@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "とってもサファリ",
+  "base_artist": "アース・スター ドリーム",
+  "createdAt": "2025-12-09T09:35:15.322935Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "とってもサファリ",
+      "artist": "アース・スター ドリーム",
+      "has_synced": true,
+      "path": "select/01_とってもサファリ_アース・スター_ドリーム.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とってもサファリ",
+      "artist": "アース・スター ドリーム",
+      "has_synced": false,
+      "path": "select/pl_01_とってもサファリ_アース・スター_ドリーム.txt"
+    }
+  ]
+}
